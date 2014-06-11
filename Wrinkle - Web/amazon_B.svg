@@ -14,7 +14,7 @@
    inkscape:version="0.48.4 r9939"
    width="100%"
    height="100%"
-   sodipodi:docname="amazon.svg">
+   sodipodi:docname="base.svg">
   <sodipodi:namedview
      pagecolor="#444444"
      bordercolor="#666666"
@@ -30,9 +30,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.7327189"
-     inkscape:cx="221.25749"
-     inkscape:cy="339.59755"
+     inkscape:zoom="0.36635945"
+     inkscape:cx="219.78272"
+     inkscape:cy="315.7241"
      inkscape:window-x="54"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -153,7 +153,7 @@
      id="rect4979"
      style="fill:#f3f3f3;fill-opacity:1;stroke:none" />
   <rect
-     style="fill:#6e6568;fill-opacity:1;stroke:none"
+     style="fill:#ffa319;fill-opacity:1;stroke:none"
      id="rect4981"
      width="434.99997"
      height="434.99997"
