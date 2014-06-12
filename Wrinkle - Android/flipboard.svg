@@ -14,7 +14,7 @@
    inkscape:version="0.48.4 r9939"
    width="100%"
    height="100%"
-   sodipodi:docname="flickr.svg">
+   sodipodi:docname="0 base.svg">
   <sodipodi:namedview
      pagecolor="#444444"
      bordercolor="#666666"
@@ -31,8 +31,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.5181105"
-     inkscape:cx="-10.163346"
-     inkscape:cy="129.38182"
+     inkscape:cx="-32.05664"
+     inkscape:cy="155.53015"
      inkscape:window-x="54"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -165,88 +165,6 @@
        x2="243.40109"
        y2="504.01736"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient4996-2">
-      <stop
-         id="stop4998-3"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
-      <stop
-         id="stop5000-2"
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       y2="256"
-       x2="362"
-       y1="256"
-       x1="257"
-       gradientTransform="matrix(1.0380952,0,0,1.4619252,-337.28943,-118.25286)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3153-4"
-       xlink:href="#linearGradient4996-28"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="256"
-       x2="362"
-       y1="256"
-       x1="257"
-       gradientTransform="matrix(1.0283468,0,0,1.4619252,209.19233,-118.25286)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3149-4"
-       xlink:href="#linearGradient4996-28"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="256"
-       x2="362"
-       y1="256"
-       x1="257"
-       gradientTransform="matrix(1.0283468,0,0,1.4619252,101.21591,-118.25286)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3145-23"
-       xlink:href="#linearGradient4996-28"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="256"
-       x2="362"
-       y1="256"
-       x1="257"
-       gradientTransform="matrix(1.0380952,0,0,1.4619252,-10.28943,-118.25286)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3141-4"
-       xlink:href="#linearGradient4996-28"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="256"
-       x2="362"
-       y1="256"
-       x1="257"
-       gradientTransform="matrix(1.0380952,0,0,1.4619252,-119.28943,-118.25286)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3137-8"
-       xlink:href="#linearGradient4996-28"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="256"
-       x2="362"
-       y1="256"
-       x1="257"
-       gradientTransform="matrix(1.0380952,0,0,1.4619252,-228.28943,-118.25286)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3108-7"
-       xlink:href="#linearGradient4996-28"
-       inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient4996-28">
-      <stop
-         id="stop4998-35"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
-      <stop
-         id="stop5000-0"
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-    </linearGradient>
   </defs>
   <path
      style="opacity:1;fill:#000000;fill-opacity:0.17647059000000001;stroke:none;filter:url(#filter4375)"
@@ -271,7 +189,7 @@
      id="rect4979"
      style="fill:url(#linearGradient4385);fill-opacity:1;stroke:none" />
   <rect
-     style="fill:#f03e9b;fill-opacity:1;stroke:none"
+     style="fill:#b31f17;fill-opacity:1;stroke:none"
      id="rect4981"
      width="434.99997"
      height="434.99997"
@@ -280,11 +198,6 @@
      rx="63.200329"
      ry="63.200329" />
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#2678da;fill-opacity:1;stroke:none"
-     d="m 101.68751,38.500011 c -35.012979,0 -63.187499,28.174518 -63.187499,63.187499 l 0,308.625 c 0,35.01298 28.17452,63.1875 63.187499,63.1875 l 153.40625,0 c 0.59012,-3.7515 0.90625,-7.60887 0.90625,-11.53125 l 0,-411.937499 c 0,-3.922376 -0.31613,-7.779747 -0.90625,-11.53125 l -153.40625,0 z"
-     id="rect3099" />
-  <path
      style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.2"
      d="M 101.6875 38.5 C 66.674518 38.5 38.5 66.674518 38.5 101.6875 L 38.5 116.6875 C 38.5 81.674518 66.674518 53.5 101.6875 53.5 L 410.3125 53.5 C 445.32548 53.5 473.5 81.674518 473.5 116.6875 L 473.5 101.6875 C 473.5 66.674518 445.32548 38.5 410.3125 38.5 L 101.6875 38.5 z "
      id="rect3187" />
@@ -292,31 +205,188 @@
      style="fill:#ffffff;fill-opacity:1;stroke:none"
      d="M 78.65625 6 C 38.411442 6 6 38.411442 6 78.65625 L 6 85.65625 C 6 45.411442 38.411442 13 78.65625 13 L 433.34375 13 C 473.58856 13 506 45.411442 506 85.65625 L 506 78.65625 C 506 38.411442 473.58856 6 433.34375 6 L 78.65625 6 z "
      id="rect4349" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic"
+     sodipodi:linespacing="125%"
+     font-size="129.23"
+     letter-spacing="0"
+     line-height="125%"
+     word-spacing="0"
+     x="126.22379"
+     y="199.77657"
+     id="text3033">
+    <tspan
+       x="126.22379"
+       y="199.77657"
+       id="tspan3035" />
+  </text>
+  <text
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial"
+     x="228.53596"
+     y="452.50836"
+     font-size="46.954"
+     transform="scale(4.0128205,0.24920128)"
+     id="text3037" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic"
+     sodipodi:linespacing="125%"
+     font-size="129.23"
+     letter-spacing="0"
+     line-height="125%"
+     word-spacing="0"
+     x="707.49377"
+     y="119.77656"
+     id="text3039">
+    <tspan
+       x="707.49377"
+       y="119.77656"
+       id="tspan3041" />
+  </text>
+  <text
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial"
+     x="373.38522"
+     y="131.48"
+     font-size="46.954"
+     transform="scale(4.0128205,0.24920128)"
+     id="text3043" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic"
+     sodipodi:linespacing="125%"
+     font-size="129.23"
+     letter-spacing="0"
+     line-height="125%"
+     word-spacing="0"
+     x="-364.08624"
+     y="-61.48444"
+     id="text3045">
+    <tspan
+       x="-364.08624"
+       y="-61.48444"
+       id="tspan3047" />
+  </text>
+  <text
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial"
+     x="106.3466"
+     y="-595.87628"
+     font-size="46.954"
+     transform="scale(4.0128205,0.24920128)"
+     id="text3049" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic"
+     sodipodi:linespacing="125%"
+     font-size="129.23"
+     letter-spacing="0"
+     line-height="125%"
+     word-spacing="0"
+     x="733.96375"
+     y="-277.95343"
+     id="text3051">
+    <tspan
+       x="733.96375"
+       y="-277.95343"
+       id="tspan3053" />
+  </text>
+  <text
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial"
+     x="379.98517"
+     y="-1464.5419"
+     font-size="46.954"
+     transform="scale(4.0128205,0.24920128)"
+     id="text3055" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic"
+     sodipodi:linespacing="125%"
+     font-size="129.23"
+     letter-spacing="0"
+     line-height="125%"
+     word-spacing="0"
+     x="1315.2338"
+     y="-357.96344"
+     id="text3057">
+    <tspan
+       x="1315.2338"
+       y="-357.96344"
+       id="tspan3059" />
+  </text>
+  <text
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial"
+     x="524.83447"
+     y="-1785.5802"
+     font-size="46.954"
+     transform="scale(4.0128205,0.24920128)"
+     id="text3061" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic"
+     sodipodi:linespacing="125%"
+     font-size="129.23"
+     letter-spacing="0"
+     line-height="125%"
+     word-spacing="0"
+     x="926.11377"
+     y="-830.36346"
+     id="text3063">
+    <tspan
+       x="926.11377"
+       y="-830.36346"
+       id="tspan3065" />
+  </text>
+  <text
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial"
+     x="427.86493"
+     y="-3681.2305"
+     font-size="46.954"
+     transform="scale(4.0128205,0.24920128)"
+     id="text3067" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic"
+     sodipodi:linespacing="125%"
+     font-size="129.23"
+     letter-spacing="0"
+     line-height="125%"
+     word-spacing="0"
+     x="1507.3738"
+     y="-910.36346"
+     id="text3069">
+    <tspan
+       x="1507.3738"
+       y="-910.36346"
+       id="tspan3071" />
+  </text>
+  <text
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial"
+     x="572.71423"
+     y="-4002.2588"
+     font-size="46.954"
+     transform="scale(4.0128205,0.24920128)"
+     id="text3073" />
+  <text
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic"
+     sodipodi:linespacing="125%"
+     font-size="208.33"
+     letter-spacing="0"
+     line-height="125%"
+     word-spacing="0"
+     x="-325.42624"
+     y="504.35657"
+     id="text3075">
+    <tspan
+       x="-325.42624"
+       y="504.35657"
+       id="tspan3077" />
+  </text>
   <g
-     id="g3938"
-     transform="translate(-7.4999992,-7.5000018)">
-    <text
-       xml:space="preserve"
-       style="font-size:440.9798584px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play Bold"
-       x="99.090202"
-       y="427.54785"
-       id="text3934"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3936"
-         x="99.090202"
-         y="427.54785">fr</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3930"
-       y="412.54785"
-       x="84.090202"
-       style="font-size:440.9798584px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#dcdbdb;fill-opacity:1;stroke:none;font-family:Play;-inkscape-font-specification:Play Bold"
-       xml:space="preserve"><tspan
-         y="412.54785"
-         x="84.090202"
-         id="tspan3932"
-         sodipodi:role="line">fr</tspan></text>
+     id="g3939"
+     transform="translate(557.32641,81.6875)">
+    <path
+       style="opacity:0.2;fill:#000000;fill-opacity:1"
+       d="m -445.96875,14.3125 0,335 111.65196,0 0,-112.26979 111.69608,0 0,-111.07825 80.93664,0 0,-111.65196 -192.63272,0 -111.65196,0 z"
+       id="path3169"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3081"
+       d="m -460.96875,-0.6875 0,335 111.65196,0 0,-112.26979 111.69608,0 0,-111.07825 80.93664,0 0,-111.65196 -192.63272,0 -111.65196,0 z"
+       style="fill:#dcdbdb;fill-opacity:1" />
   </g>
   <g
      id="g3167">
