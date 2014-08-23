@@ -1,1 +1,685 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512"><defs><filter id="7"><feGaussianBlur stdDeviation="3.7725"/></filter><linearGradient id="8" y1="19.564" x2="0" y2="504.02" gradientUnits="userSpaceOnUse"><stop stop-color="#f3f3f3"/><stop offset=".5" stop-color="#eee"/><stop offset="1" stop-color="#ebebeb"/></linearGradient><linearGradient xlink:href="#0" id="5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.02835 0 0 1.46193 209.19-118.25)" x1="257" x2="362"/><linearGradient xlink:href="#0" id="6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0381 0 0 1.46193-337.29-118.25)" x1="257" x2="362"/><linearGradient xlink:href="#0" id="4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.02835 0 0 1.46193 101.22-118.25)" x1="257" x2="362"/><linearGradient xlink:href="#0" id="3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0381 0 0 1.46193-10.289-118.25)" x1="257" x2="362"/><linearGradient id="0"><stop/><stop offset="1" stop-color="#fff"/></linearGradient><linearGradient xlink:href="#0" id="2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0381 0 0 1.46193-119.29-118.25)" x1="257" x2="362"/><linearGradient xlink:href="#0" id="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0381 0 0 1.46193-228.29-118.25)" x1="257" x2="362"/></defs><path d="m78.66 6c-.929 0-1.861.028-2.781.063-.073.003-.146-.003-.219 0-.668.027-1.337.08-2 .125-.376.025-.751.063-1.125.094-.645.053-1.297.086-1.938.156-.965.106-1.922.232-2.875.375-.052.008-.104.023-.156.031-1.082.165-2.154.351-3.219.563-.459.091-.919.182-1.375.281-.39.085-.769.19-1.156.281-.647.152-1.297.299-1.938.469-.898.238-1.804.479-2.688.75-.211.065-.414.152-.625.219-.991.314-1.966.645-2.938 1-.817.298-1.635.611-2.438.938-.29.118-.587.222-.875.344-.136.057-.27.129-.406.188-.082.035-.169.058-.25.094-.717.311-1.42.636-2.125.969-.147.069-.291.148-.438.219-.947.455-1.889.943-2.813 1.438-.271.145-.544.289-.813.438-.414.228-.81.483-1.219.719-.52.3-1.051.594-1.563.906-.738.452-1.467.898-2.188 1.375-.031.021-.062.042-.094.063-.456.303-.895.625-1.344.938-.123.086-.252.163-.375.25-.524.37-1.049.742-1.563 1.125-1.835 1.371-3.618 2.84-5.313 4.375-.017.015-.046.016-.063.031-.526.477-1.02.977-1.531 1.469-.524.505-1.054 1.011-1.563 1.531-.512.523-1 1.055-1.5 1.594-.941 1.022-1.837 2.05-2.719 3.125-.631.769-1.244 1.58-1.844 2.375-.111.148-.233.289-.344.438-.526.71-1.031 1.427-1.531 2.156-.11.16-.235.308-.344.469-.013.019-.018.043-.031.063-.084.125-.167.249-.25.375-.47.708-.929 1.431-1.375 2.156-.071.116-.148.227-.219.344-.575.948-1.124 1.899-1.656 2.875-.152.278-.289.564-.438.844-.18.341-.356.687-.531 1.031-.243.479-.486.952-.719 1.438-.426.885-.828 1.783-1.219 2.688-.24.556-.461 1.124-.688 1.688-.038.095-.087.186-.125.281-.246.621-.489 1.245-.719 1.875-.332.909-.641 1.825-.938 2.75-.11.345-.238.684-.344 1.031-.301.99-.585 1.992-.844 3-.008.032-.023.062-.031.094-.267 1.046-.497 2.092-.719 3.156-.034.166-.06.334-.094.5-.426 2.117-.762 4.257-1 6.438-.035.323-.063.645-.094.969-.09.938-.165 1.895-.219 2.844-.017.29-.018.584-.031.875-.051 1.119-.094 2.243-.094 3.375v354.69 6c0 40.24 32.411 72.66 72.66 72.66h354.69c40.24 0 72.66-32.411 72.66-72.66v-354.69-6c0-1.259-.031-2.507-.094-3.75-.016-.323-.042-.647-.063-.969-.058-.917-.127-1.843-.219-2.75-.02-.2-.041-.394-.063-.594-.246-2.245-.587-4.447-1.031-6.625-.021-.104-.041-.209-.063-.313-.227-1.087-.476-2.15-.75-3.219-.011-.042-.02-.083-.031-.125-.19-.732-.413-1.464-.625-2.188-.212-.724-.423-1.442-.656-2.156-.258-.789-.529-1.567-.813-2.344-.23-.63-.472-1.254-.719-1.875-.038-.096-.087-.186-.125-.281-.239-.594-.465-1.195-.719-1.781-.378-.871-.777-1.741-1.188-2.594-.233-.485-.475-.958-.719-1.438-.287-.564-.574-1.132-.875-1.688-.051-.094-.105-.188-.156-.281-.513-.936-1.041-1.871-1.594-2.781-.212-.35-.438-.685-.656-1.031-.405-.642-.795-1.278-1.219-1.906-.809-1.199-1.685-2.354-2.563-3.5-.262-.341-.514-.695-.781-1.031-.189-.238-.371-.483-.563-.719-.093-.114-.188-.231-.281-.344-2.71-3.286-5.696-6.301-8.938-9.06-.293-.249-.578-.505-.875-.75-.268-.221-.541-.439-.813-.656-.636-.509-1.284-1.012-1.938-1.5-3.17-2.368-6.55-4.481-10.09-6.313-.617-.319-1.248-.636-1.875-.938-.155-.074-.313-.145-.469-.219-.785-.371-1.575-.719-2.375-1.063-.488-.209-.975-.426-1.469-.625-.735-.296-1.472-.571-2.219-.844-.392-.143-.793-.27-1.188-.406-.718-.248-1.459-.524-2.188-.75-.114-.035-.23-.059-.344-.094-.488-.149-.977-.267-1.469-.406-.357-.1-.703-.217-1.063-.313-.019-.005-.043.005-.063 0-.837-.221-1.683-.433-2.531-.625-.032-.007-.062-.024-.094-.031-.651-.146-1.311-.278-1.969-.406-1-.197-2.01-.376-3.03-.531-.063-.01-.125-.022-.188-.031-.952-.143-1.88-.269-2.844-.375-.836-.091-1.687-.156-2.531-.219-.176-.013-.355-.019-.531-.031-.735-.049-1.478-.097-2.219-.125-.92-.034-1.853-.063-2.781-.063h-285.84-68.844" filter="url(#7)" fill-opacity=".176"/><rect width="500" height="500" x="6" y="12" rx="72.64" opacity=".15"/><rect rx="72.64" y="6" x="6" height="500" width="500" fill="url(#8)"/><rect width="435" height="435" x="38.5" y="38.5" rx="63.2" fill="#825d92"/><path d="m101.69 38.5c-35.01 0-63.19 28.17-63.19 63.19v15c0-35.01 28.17-63.19 63.19-63.19h308.63c35.01 0 63.19 28.17 63.19 63.19v-15c0-35.01-28.17-63.19-63.19-63.19h-308.62" opacity=".2"/><path d="m78.66 6c-40.24 0-72.66 32.411-72.66 72.66v7c0-40.24 32.411-72.66 72.66-72.66h354.69c40.24 0 72.66 32.411 72.66 72.66v-7c0-40.24-32.411-72.66-72.66-72.66h-354.69" fill="#fff"/><text x="-26502.12" y="1344.84" word-spacing="0" line-height="125%" letter-spacing="0" font-size="4848.41" font-family="Gentium Book Basic"><tspan x="-26502.12" y="1344.84"/></text><text x="789.94" y="-7703.41" font-size="1761.74" transform="scale(4.0128.2492)" font-family="Arial" text-anchor="middle"/><text x="-26636.87" y="2256.9" word-spacing="0" line-height="125%" letter-spacing="0" font-size="4848.41" font-family="Gentium Book Basic"><tspan x="-26636.87" y="2256.9"/></text><text x="756.4" y="-4043.56" font-size="1761.74" transform="scale(4.0128.2492)" font-family="Arial" text-anchor="middle"/><g transform="matrix(23.27273 0 0 23.27273 625.97-40.35)" fill="#555753"><text transform="scale(1.05082.95163)" x="-549.96" y="-204.06" word-spacing="0" line-height="125%" letter-spacing="0" font-size="127.88" font-family="Gentium Book Basic"><tspan x="-549.96" y="-204.06"/></text><text x="57.981" y="-1164.37" font-size="46.47" transform="scale(4.21679.23715)" font-family="Arial" text-anchor="middle"/><text transform="scale(1.05082.95163)" x="-145.93" y="-239.51" word-spacing="0" line-height="125%" letter-spacing="0" font-size="68.46" font-family="Gentium Book Basic"><tspan x="-145.93" y="-239.51"/></text><text x="68.04" y="-1146.06" font-size="24.874" transform="scale(4.21679.23715)" font-family="Arial" text-anchor="middle"/><text x="-1695.66" y="-74.27" word-spacing="0" line-height="125%" letter-spacing="0" font-size="200" font-family="Gentium Book Basic"><tspan x="-1695.66" y="-74.27"/></text><text x="-117.54" y="-838.39" font-size="72.67" transform="scale(4.0128.2492)" font-family="Arial" text-anchor="middle"/></g><g transform="matrix(23.27273 0 0 23.27273 625.97-40.35)"><g fill="#000"><text x="-1086.23" y="-599.63" word-spacing="0" line-height="125%" letter-spacing="0" font-size="208.33" font-family="Gentium Book Basic" stroke="#cd1d31"><tspan x="-1086.23" y="-599.63"/></text><text x="47.04" y="-2969.12" font-size="75.7" transform="scale(4.0128.2492)" font-family="Arial" text-anchor="middle" stroke="none"/><text x="-1092.03" y="-560.44" word-spacing="0" line-height="125%" letter-spacing="0" font-size="208.33" font-family="Gentium Book Basic" stroke="#cd1d31"><tspan x="-1092.03" y="-560.44"/></text><text x="45.593" y="-2811.85" font-size="75.7" transform="scale(4.0128.2492)" font-family="Arial" text-anchor="middle" stroke="none"/></g><g fill="#555753"><g stroke="#cd1d31"><text transform="scale(1.05082.95163)" x="-474.37" y="-896.71" word-spacing="0" line-height="125%" letter-spacing="0" font-size="127.88" font-family="Gentium Book Basic"><tspan x="-474.37" y="-896.71"/></text><text x="76.82" y="-3943.87" font-size="46.47" transform="scale(4.21679.23715)" font-family="Arial" text-anchor="middle"/><text transform="scale(1.05082.95163)" x="-70.35" y="-932.16" word-spacing="0" line-height="125%" letter-spacing="0" font-size="68.46" font-family="Gentium Book Basic"><tspan x="-70.35" y="-932.16"/></text><text x="86.87" y="-3925.56" font-size="24.874" transform="scale(4.21679.23715)" font-family="Arial" text-anchor="middle"/><text x="-1616.23" y="-733.42" word-spacing="0" line-height="125%" letter-spacing="0" font-size="200" font-family="Gentium Book Basic"><tspan x="-1616.23" y="-733.42"/></text></g><text x="-97.75" y="-3483.46" font-size="72.67" transform="scale(4.0128.2492)" font-family="Arial" text-anchor="middle" stroke="none"/></g><g fill="#000"><text x="-356.8" y="-887.07" word-spacing="0" line-height="125%" letter-spacing="0" font-size="200" font-family="Gentium Book Basic" stroke="#cd1d31"><tspan x="-356.8" y="-887.07"/></text><text x="216.1" y="-4100.03" font-size="72.67" transform="scale(4.0128.2492)" font-family="Arial" text-anchor="middle" stroke="none"/><text x="542.82" y="-1010.89" word-spacing="0" line-height="125%" letter-spacing="0" font-size="200" font-family="Gentium Book Basic" stroke="#cd1d31"><tspan x="542.82" y="-1010.89"/></text><text x="440.29" y="-4596.89" font-size="72.67" transform="scale(4.0128.2492)" font-family="Arial" text-anchor="middle" stroke="none"/></g></g><text y="-266.24" x="419.03" word-spacing="0" line-height="125%" letter-spacing="0" font-size="372.15" font-family="Gentium Book Basic"><tspan y="-266.24" x="419.03"/></text><text transform="scale(4.0128.2492)" font-size="135.21" y="-2073.76" x="671.95" font-family="Arial" text-anchor="middle"/><text y="-496.64" x="2093.08" word-spacing="0" line-height="125%" letter-spacing="0" font-size="372.15" font-family="Gentium Book Basic"><tspan y="-496.64" x="2093.08"/></text><text transform="scale(4.0128.2492)" font-size="135.21" y="-2998.38" x="1089.22" font-family="Arial" text-anchor="middle"/><text y="-1018.74" x="-993.11" word-spacing="0" line-height="125%" letter-spacing="0" font-size="372.15" font-family="Gentium Book Basic"><tspan y="-1018.74" x="-993.11"/></text><text transform="scale(4.0128.2492)" font-size="135.21" y="-5093.15" x="320.06" font-family="Arial" text-anchor="middle"/><text y="-1642.07" x="2169.18" word-spacing="0" line-height="125%" letter-spacing="0" font-size="372.15" font-family="Gentium Book Basic"><tspan y="-1642.07" x="2169.18"/></text><text transform="scale(4.0128.2492)" font-size="135.21" y="-7594.73" x="1108.14" font-family="Arial" text-anchor="middle"/><text y="-1872.38" x="3843.19" word-spacing="0" line-height="125%" letter-spacing="0" font-size="372.15" font-family="Gentium Book Basic"><tspan y="-1872.38" x="3843.19"/></text><text transform="scale(4.0128.2492)" font-size="135.21" y="-8519.35" x="1525.31" font-family="Arial" text-anchor="middle"/><text y="-3232.9" x="2722.61" word-spacing="0" line-height="125%" letter-spacing="0" font-size="372.15" font-family="Gentium Book Basic"><tspan y="-3232.9" x="2722.61"/></text><text transform="scale(4.0128.2492)" font-size="135.21" y="-13978.64" x="1246.06" font-family="Arial" text-anchor="middle"/><text y="-3463.3" x="4396.62" word-spacing="0" line-height="125%" letter-spacing="0" font-size="372.15" font-family="Gentium Book Basic"><tspan y="-3463.3" x="4396.62"/></text><text transform="scale(4.0128.2492)" font-size="135.21" y="-14903.26" x="1663.22" font-family="Arial" text-anchor="middle"/><g word-spacing="0" line-height="125%" letter-spacing="0" transform="matrix(23.27273 0 0 23.27273 625.97-40.35)" font-family="Gentium Book Basic"><text y="27.985" x="-64.783" font-size="25.781"><tspan y="27.985" x="-64.783"/></text><text y="-101.63" x="375.24" font-size="15.991"><tspan y="-101.63" x="375.24"/></text></g><text transform="scale(4.0128.2492)" font-size="135.21" y="-10659.03" x="2899.83" font-family="Arial" text-anchor="middle"/><text y="-2635.96" x="11032.6" word-spacing="0" line-height="125%" letter-spacing="0" font-size="372.15" font-family="Gentium Book Basic"><tspan y="-2635.96" x="11032.6"/></text><text transform="scale(4.0128.2492)" font-size="135.21" y="-11583.42" x="3316.88" font-family="Arial" text-anchor="middle"/><text y="-3157.97" x="7946.64" word-spacing="0" line-height="125%" letter-spacing="0" font-size="372.15" font-family="Gentium Book Basic"><tspan y="-3157.97" x="7946.64"/></text><text transform="scale(4.0128.2492)" font-size="135.21" y="-13678.19" x="2547.95" font-family="Arial" text-anchor="middle"/><text y="-3781.44" x="11108.94" word-spacing="0" line-height="125%" letter-spacing="0" font-size="372.15" font-family="Gentium Book Basic"><tspan y="-3781.44" x="11108.94"/></text><text transform="scale(4.0128.2492)" font-size="135.21" y="-16179.99" x="3335.96" font-family="Arial" text-anchor="middle"/><text y="-4011.84" x="12782.94" word-spacing="0" line-height="125%" letter-spacing="0" font-size="372.15" font-family="Gentium Book Basic"><tspan y="-4011.84" x="12782.94"/></text><text transform="scale(4.0128.2492)" font-size="135.21" y="-17104.38" x="3753.01" font-family="Arial" text-anchor="middle"/><text y="-5372.37" x="11662.36" word-spacing="0" line-height="125%" letter-spacing="0" font-size="372.15" font-family="Gentium Book Basic"><tspan y="-5372.37" x="11662.36"/></text><text transform="scale(4.0128.2492)" font-size="135.21" y="-22563.9" x="3473.74" font-family="Arial" text-anchor="middle"/><text y="-5602.77" x="13336.37" word-spacing="0" line-height="125%" letter-spacing="0" font-size="372.15" font-family="Gentium Book Basic"><tspan y="-5602.77" x="13336.37"/></text><text transform="scale(4.0128.2492)" font-size="135.21" y="-23488.29" x="3891.01" font-family="Arial" text-anchor="middle"/><text y="-1528.48" x="8057.88" word-spacing="0" line-height="125%" letter-spacing="0" font-size="599.99" font-family="Gentium Book Basic"><tspan y="-1528.48" x="8057.88"/></text><g transform="translate(-583.52-16.713)"><g transform="matrix(2.62305 0 0-2.62305 673.9 447.71)" opacity=".2"><path d="M 89.628,127.714 118,99 89.628,99" id="9"/><path d="m118 7.982c0-4.412-3.57-7.982-7.982-7.982h-88.04c-4.408 0-7.982 3.57-7.982 7.982v111.75c0 4.412 3.574 7.982 7.982 7.982h59.53v-33.723c0-2.206 1.785-3.991 3.991-3.991h32.5v-82.02m-92 12.02h40v9h-40v-9m0 25h40v9h-40v-9m40 59h-40v-9h40v9m38-25h-78v-9h78v9m0-25h-25v-34h25v34" id="A"/></g><g transform="matrix(2.62305 0 0-2.62305 658.9 432.71)" fill="#dcdbdb"><use xlink:href="#9"/><use xlink:href="#A"/></g></g><path d="m78.66 6c-14.863 0-28.67 4.43-40.16 12.03v475.94c11.486 7.602 25.293 12.03 40.16 12.03h68.844v-500h-68.844" opacity=".05" fill="url(#1)"/><path d="m147.5 6v500h109v-500h-109" opacity=".05" fill="url(#2)"/><path d="m256.5 6v500h109v-500h-109" opacity=".05" fill="url(#3)"/><path d="m365.5 6v500h67.844c14.854 0 28.643-4.438 40.13-12.03v-475.94c-11.482-7.593-25.27-12.03-40.12-12.03h-67.844" opacity=".05" fill="url(#4)"/><path d="m38.5 18.03c-19.614 12.981-32.5 35.24-32.5 60.63v354.69c0 25.381 12.886 47.644 32.5 60.63v-475.94" opacity=".05" fill="url(#6)"/><path d="m473.47 18.03v475.94c19.627-12.979 32.531-35.23 32.531-60.62v-354.69c0-25.391-12.905-47.646-32.531-60.62" opacity=".05" fill="url(#5)"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="0 0 512 512"
+   id="svg2">
+  <metadata
+     id="metadata243">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="7">
+      <feGaussianBlur
+         id="feGaussianBlur7"
+         stdDeviation="3.7725" />
+    </filter>
+    <linearGradient
+       y1="19.563999"
+       x2="0"
+       y2="504.01999"
+       id="8"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop10"
+         style="stop-color:#f3f3f3;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop12"
+         style="stop-color:#eeeeee;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop14"
+         style="stop-color:#ebebeb;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="257"
+       x2="362"
+       id="5"
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.02835,0,0,1.46193,209.19,-118.25)" />
+    <linearGradient
+       x1="257"
+       x2="362"
+       id="6"
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0381,0,0,1.46193,-337.29,-118.25)" />
+    <linearGradient
+       x1="257"
+       x2="362"
+       id="4"
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.02835,0,0,1.46193,101.22,-118.25)" />
+    <linearGradient
+       x1="257"
+       x2="362"
+       id="3"
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0381,0,0,1.46193,-10.289,-118.25)" />
+    <linearGradient
+       id="0">
+      <stop
+         id="stop21"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop23"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="257"
+       x2="362"
+       id="2"
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0381,0,0,1.46193,-119.29,-118.25)" />
+    <linearGradient
+       x1="257"
+       x2="362"
+       id="1"
+       xlink:href="#0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0381,0,0,1.46193,-228.29,-118.25)" />
+  </defs>
+  <path
+     d="m 78.66,6 c -0.929,0 -1.861,0.028 -2.781,0.063 -0.073,0.003 -0.146,-0.003 -0.219,0 -0.668,0.027 -1.337,0.08 -2,0.125 -0.376,0.025 -0.751,0.063 -1.125,0.094 -0.645,0.053 -1.297,0.086 -1.938,0.156 -0.965,0.106 -1.922,0.232 -2.875,0.375 -0.052,0.008 -0.104,0.023 -0.156,0.031 -1.082,0.165 -2.154,0.351 -3.219,0.563 -0.459,0.091 -0.919,0.182 -1.375,0.281 -0.39,0.085 -0.769,0.19 -1.156,0.281 -0.647,0.152 -1.297,0.299 -1.938,0.469 -0.898,0.238 -1.804,0.479 -2.688,0.75 -0.211,0.065 -0.414,0.152 -0.625,0.219 -0.991,0.314 -1.966,0.645 -2.938,1 -0.817,0.298 -1.635,0.611 -2.438,0.938 -0.29,0.118 -0.587,0.222 -0.875,0.344 -0.136,0.057 -0.27,0.129 -0.406,0.188 -0.082,0.035 -0.169,0.058 -0.25,0.094 -0.717,0.311 -1.42,0.636 -2.125,0.969 -0.147,0.069 -0.291,0.148 -0.438,0.219 -0.947,0.455 -1.889,0.943 -2.813,1.438 -0.271,0.145 -0.544,0.289 -0.813,0.438 -0.414,0.228 -0.81,0.483 -1.219,0.719 -0.52,0.3 -1.051,0.594 -1.563,0.906 -0.738,0.452 -1.467,0.898 -2.188,1.375 -0.031,0.021 -0.062,0.042 -0.094,0.063 -0.456,0.303 -0.895,0.625 -1.344,0.938 -0.123,0.086 -0.252,0.163 -0.375,0.25 -0.524,0.37 -1.049,0.742 -1.563,1.125 -1.835,1.371 -3.618,2.84 -5.313,4.375 -0.017,0.015 -0.046,0.016 -0.063,0.031 -0.526,0.477 -1.02,0.977 -1.531,1.469 -0.524,0.505 -1.054,1.011 -1.563,1.531 -0.512,0.523 -1,1.055 -1.5,1.594 -0.941,1.022 -1.837,2.05 -2.719,3.125 -0.631,0.769 -1.244,1.58 -1.844,2.375 -0.111,0.148 -0.233,0.289 -0.344,0.438 -0.526,0.71 -1.031,1.427 -1.531,2.156 -0.11,0.16 -0.235,0.308 -0.344,0.469 -0.013,0.019 -0.018,0.043 -0.031,0.063 -0.084,0.125 -0.167,0.249 -0.25,0.375 -0.47,0.708 -0.929,1.431 -1.375,2.156 -0.071,0.116 -0.148,0.227 -0.219,0.344 -0.575,0.948 -1.124,1.899 -1.656,2.875 -0.152,0.278 -0.289,0.564 -0.438,0.844 -0.18,0.341 -0.356,0.687 -0.531,1.031 -0.243,0.479 -0.486,0.952 -0.719,1.438 -0.426,0.885 -0.828,1.783 -1.219,2.688 -0.24,0.556 -0.461,1.124 -0.688,1.688 -0.038,0.095 -0.087,0.186 -0.125,0.281 -0.246,0.621 -0.489,1.245 -0.719,1.875 -0.332,0.909 -0.641,1.825 -0.938,2.75 -0.11,0.345 -0.238,0.684 -0.344,1.031 -0.301,0.99 -0.585,1.992 -0.844,3 -0.008,0.032 -0.023,0.062 -0.031,0.094 -0.267,1.046 -0.497,2.092 -0.719,3.156 -0.034,0.166 -0.06,0.334 -0.094,0.5 -0.426,2.117 -0.762,4.257 -1,6.438 -0.035,0.323 -0.063,0.645 -0.094,0.969 -0.09,0.938 -0.165,1.895 -0.219,2.844 -0.017,0.29 -0.018,0.584 -0.031,0.875 -0.051,1.119 -0.094,2.243 -0.094,3.375 v 354.69 6 c 0,40.24 32.411,72.66 72.66,72.66 h 354.69 c 40.24,0 72.66,-32.411 72.66,-72.66 v -354.69 -6 c 0,-1.259 -0.031,-2.507 -0.094,-3.75 -0.016,-0.323 -0.042,-0.647 -0.063,-0.969 -0.058,-0.917 -0.127,-1.843 -0.219,-2.75 -0.02,-0.2 -0.041,-0.394 -0.063,-0.594 -0.246,-2.245 -0.587,-4.447 -1.031,-6.625 -0.021,-0.104 -0.041,-0.209 -0.063,-0.313 -0.227,-1.087 -0.476,-2.15 -0.75,-3.219 -0.011,-0.042 -0.02,-0.083 -0.031,-0.125 -0.19,-0.732 -0.413,-1.464 -0.625,-2.188 -0.212,-0.724 -0.423,-1.442 -0.656,-2.156 -0.258,-0.789 -0.529,-1.567 -0.813,-2.344 -0.23,-0.63 -0.472,-1.254 -0.719,-1.875 -0.038,-0.096 -0.087,-0.186 -0.125,-0.281 -0.239,-0.594 -0.465,-1.195 -0.719,-1.781 -0.378,-0.871 -0.777,-1.741 -1.188,-2.594 -0.233,-0.485 -0.475,-0.958 -0.719,-1.438 -0.287,-0.564 -0.574,-1.132 -0.875,-1.688 -0.051,-0.094 -0.105,-0.188 -0.156,-0.281 -0.513,-0.936 -1.041,-1.871 -1.594,-2.781 -0.212,-0.35 -0.438,-0.685 -0.656,-1.031 -0.405,-0.642 -0.795,-1.278 -1.219,-1.906 -0.809,-1.199 -1.685,-2.354 -2.563,-3.5 -0.262,-0.341 -0.514,-0.695 -0.781,-1.031 -0.189,-0.238 -0.371,-0.483 -0.563,-0.719 -0.093,-0.114 -0.188,-0.231 -0.281,-0.344 -2.71,-3.286 -5.696,-6.301 -8.938,-9.06 -0.293,-0.249 -0.578,-0.505 -0.875,-0.75 -0.268,-0.221 -0.541,-0.439 -0.813,-0.656 -0.636,-0.509 -1.284,-1.012 -1.938,-1.5 -3.17,-2.368 -6.55,-4.481 -10.09,-6.313 -0.617,-0.319 -1.248,-0.636 -1.875,-0.938 -0.155,-0.074 -0.313,-0.145 -0.469,-0.219 -0.785,-0.371 -1.575,-0.719 -2.375,-1.063 -0.488,-0.209 -0.975,-0.426 -1.469,-0.625 -0.735,-0.296 -1.472,-0.571 -2.219,-0.844 -0.392,-0.143 -0.793,-0.27 -1.188,-0.406 -0.718,-0.248 -1.459,-0.524 -2.188,-0.75 -0.114,-0.035 -0.23,-0.059 -0.344,-0.094 -0.488,-0.149 -0.977,-0.267 -1.469,-0.406 -0.357,-0.1 -0.703,-0.217 -1.063,-0.313 -0.019,-0.005 -0.043,0.005 -0.063,0 -0.837,-0.221 -1.683,-0.433 -2.531,-0.625 -0.032,-0.007 -0.062,-0.024 -0.094,-0.031 -0.651,-0.146 -1.311,-0.278 -1.969,-0.406 -1,-0.197 -2.01,-0.376 -3.03,-0.531 -0.063,-0.01 -0.125,-0.022 -0.188,-0.031 -0.952,-0.143 -1.88,-0.269 -2.844,-0.375 -0.836,-0.091 -1.687,-0.156 -2.531,-0.219 -0.176,-0.013 -0.355,-0.019 -0.531,-0.031 -0.735,-0.049 -1.478,-0.097 -2.219,-0.125 -0.92,-0.034 -1.853,-0.063 -2.781,-0.063 H 147.503 78.659"
+     inkscape:connector-curvature="0"
+     id="path27"
+     style="fill-opacity:0.17600002;filter:url(#7)" />
+  <rect
+     width="500"
+     height="500"
+     rx="72.639999"
+     x="6"
+     y="12"
+     id="rect29"
+     style="opacity:0.15" />
+  <rect
+     width="500"
+     height="500"
+     rx="72.639999"
+     x="6"
+     y="6"
+     id="rect31"
+     style="fill:url(#8)" />
+  <rect
+     width="435"
+     height="435"
+     rx="63.200001"
+     x="38.5"
+     y="38.5"
+     id="rect33"
+     style="fill:#825d92" />
+  <path
+     d="M 101.69,38.5 C 66.68,38.5 38.5,66.67 38.5,101.69 v 15 C 38.5,81.68 66.67,53.5 101.69,53.5 h 308.63 c 35.01,0 63.19,28.17 63.19,63.19 v -15 C 473.51,66.68 445.34,38.5 410.32,38.5 H 101.7"
+     inkscape:connector-curvature="0"
+     id="path35"
+     style="opacity:0.2" />
+  <path
+     d="M 78.66,6 C 38.42,6 6,38.411 6,78.66 v 7 C 6,45.42 38.411,13 78.66,13 h 354.69 c 40.24,0 72.66,32.411 72.66,72.66 v -7 C 506.01,38.42 473.599,6 433.35,6 H 78.66"
+     inkscape:connector-curvature="0"
+     id="path37"
+     style="fill:#ffffff" />
+  <text
+     x="-26502.119"
+     y="1344.84"
+     id="text39"
+     style="font-size:4848.41015625px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-26502.119"
+       y="1344.84"
+       id="tspan41" />
+  </text>
+  <text
+     x="789.94"
+     y="-7703.4102"
+     transform="scale(4.0128,0.2492)"
+     id="text43"
+     style="font-size:1761.73999023px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-26636.869"
+     y="2256.8999"
+     id="text45"
+     style="font-size:4848.41015625px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-26636.869"
+       y="2256.8999"
+       id="tspan47" />
+  </text>
+  <text
+     x="756.40002"
+     y="-4043.5601"
+     transform="scale(4.0128,0.2492)"
+     id="text49"
+     style="font-size:1761.73999023px;text-anchor:middle;font-family:Arial" />
+  <g
+     transform="matrix(23.27273,0,0,23.27273,625.97,-40.35)"
+     id="g51"
+     style="fill:#555753">
+    <text
+       x="-549.96002"
+       y="-204.06"
+       transform="scale(1.05082,0.95163)"
+       id="text53"
+       style="font-size:127.87999725px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+      <tspan
+         x="-549.96002"
+         y="-204.06"
+         id="tspan55" />
+    </text>
+    <text
+       x="57.980999"
+       y="-1164.37"
+       transform="scale(4.21679,0.23715)"
+       id="text57"
+       style="font-size:46.47000122px;text-anchor:middle;font-family:Arial" />
+    <text
+       x="-145.92999"
+       y="-239.50999"
+       transform="scale(1.05082,0.95163)"
+       id="text59"
+       style="font-size:68.45999908px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+      <tspan
+         x="-145.92999"
+         y="-239.50999"
+         id="tspan61" />
+    </text>
+    <text
+       x="68.040001"
+       y="-1146.0601"
+       transform="scale(4.21679,0.23715)"
+       id="text63"
+       style="font-size:24.87400055px;text-anchor:middle;font-family:Arial" />
+    <text
+       x="-1695.66"
+       y="-74.269997"
+       id="text65"
+       style="font-size:200px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+      <tspan
+         x="-1695.66"
+         y="-74.269997"
+         id="tspan67" />
+    </text>
+    <text
+       x="-117.54"
+       y="-838.39001"
+       transform="scale(4.0128,0.2492)"
+       id="text69"
+       style="font-size:72.66999817px;text-anchor:middle;font-family:Arial" />
+  </g>
+  <g
+     transform="matrix(23.27273,0,0,23.27273,625.97,-40.35)"
+     id="g71">
+    <g
+       id="g73"
+       style="fill:#000000">
+      <text
+         x="-1086.23"
+         y="-599.63"
+         id="text75"
+         style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;stroke:#cd1d31;font-family:Gentium Book Basic">
+        <tspan
+           x="-1086.23"
+           y="-599.63"
+           id="tspan77" />
+      </text>
+      <text
+         x="47.040001"
+         y="-2969.1201"
+         transform="scale(4.0128,0.2492)"
+         id="text79"
+         style="font-size:75.69999695px;text-anchor:middle;stroke:none;font-family:Arial" />
+      <text
+         x="-1092.03"
+         y="-560.44"
+         id="text81"
+         style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;stroke:#cd1d31;font-family:Gentium Book Basic">
+        <tspan
+           x="-1092.03"
+           y="-560.44"
+           id="tspan83" />
+      </text>
+      <text
+         x="45.592999"
+         y="-2811.8501"
+         transform="scale(4.0128,0.2492)"
+         id="text85"
+         style="font-size:75.69999695px;text-anchor:middle;stroke:none;font-family:Arial" />
+    </g>
+    <g
+       id="g87"
+       style="fill:#555753">
+      <g
+         id="g89"
+         style="stroke:#cd1d31">
+        <text
+           x="-474.37"
+           y="-896.71002"
+           transform="scale(1.05082,0.95163)"
+           id="text91"
+           style="font-size:127.87999725px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+          <tspan
+             x="-474.37"
+             y="-896.71002"
+             id="tspan93" />
+        </text>
+        <text
+           x="76.82"
+           y="-3943.8701"
+           transform="scale(4.21679,0.23715)"
+           id="text95"
+           style="font-size:46.47000122px;text-anchor:middle;font-family:Arial" />
+        <text
+           x="-70.349998"
+           y="-932.15997"
+           transform="scale(1.05082,0.95163)"
+           id="text97"
+           style="font-size:68.45999908px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+          <tspan
+             x="-70.349998"
+             y="-932.15997"
+             id="tspan99" />
+        </text>
+        <text
+           x="86.870003"
+           y="-3925.5601"
+           transform="scale(4.21679,0.23715)"
+           id="text101"
+           style="font-size:24.87400055px;text-anchor:middle;font-family:Arial" />
+        <text
+           x="-1616.23"
+           y="-733.41998"
+           id="text103"
+           style="font-size:200px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+          <tspan
+             x="-1616.23"
+             y="-733.41998"
+             id="tspan105" />
+        </text>
+      </g>
+      <text
+         x="-97.75"
+         y="-3483.46"
+         transform="scale(4.0128,0.2492)"
+         id="text107"
+         style="font-size:72.66999817px;text-anchor:middle;stroke:none;font-family:Arial" />
+    </g>
+    <g
+       id="g109"
+       style="fill:#000000">
+      <text
+         x="-356.79999"
+         y="-887.07001"
+         id="text111"
+         style="font-size:200px;line-height:125%;letter-spacing:0;word-spacing:0;stroke:#cd1d31;font-family:Gentium Book Basic">
+        <tspan
+           x="-356.79999"
+           y="-887.07001"
+           id="tspan113" />
+      </text>
+      <text
+         x="216.10001"
+         y="-4100.0298"
+         transform="scale(4.0128,0.2492)"
+         id="text115"
+         style="font-size:72.66999817px;text-anchor:middle;stroke:none;font-family:Arial" />
+      <text
+         x="542.82001"
+         y="-1010.89"
+         id="text117"
+         style="font-size:200px;line-height:125%;letter-spacing:0;word-spacing:0;stroke:#cd1d31;font-family:Gentium Book Basic">
+        <tspan
+           x="542.82001"
+           y="-1010.89"
+           id="tspan119" />
+      </text>
+      <text
+         x="440.29001"
+         y="-4596.8901"
+         transform="scale(4.0128,0.2492)"
+         id="text121"
+         style="font-size:72.66999817px;text-anchor:middle;stroke:none;font-family:Arial" />
+    </g>
+  </g>
+  <text
+     x="419.03"
+     y="-266.23999"
+     id="text123"
+     style="font-size:372.1499939px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="419.03"
+       y="-266.23999"
+       id="tspan125" />
+  </text>
+  <text
+     x="671.95001"
+     y="-2073.76"
+     transform="scale(4.0128,0.2492)"
+     id="text127"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="2093.0801"
+     y="-496.64001"
+     id="text129"
+     style="font-size:372.1499939px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="2093.0801"
+       y="-496.64001"
+       id="tspan131" />
+  </text>
+  <text
+     x="1089.22"
+     y="-2998.3799"
+     transform="scale(4.0128,0.2492)"
+     id="text133"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-993.10999"
+     y="-1018.74"
+     id="text135"
+     style="font-size:372.1499939px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-993.10999"
+       y="-1018.74"
+       id="tspan137" />
+  </text>
+  <text
+     x="320.06"
+     y="-5093.1499"
+     transform="scale(4.0128,0.2492)"
+     id="text139"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="2169.1799"
+     y="-1642.0699"
+     id="text141"
+     style="font-size:372.1499939px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="2169.1799"
+       y="-1642.0699"
+       id="tspan143" />
+  </text>
+  <text
+     x="1108.14"
+     y="-7594.73"
+     transform="scale(4.0128,0.2492)"
+     id="text145"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="3843.1899"
+     y="-1872.38"
+     id="text147"
+     style="font-size:372.1499939px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="3843.1899"
+       y="-1872.38"
+       id="tspan149" />
+  </text>
+  <text
+     x="1525.3101"
+     y="-8519.3496"
+     transform="scale(4.0128,0.2492)"
+     id="text151"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="2722.6101"
+     y="-3232.8999"
+     id="text153"
+     style="font-size:372.1499939px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="2722.6101"
+       y="-3232.8999"
+       id="tspan155" />
+  </text>
+  <text
+     x="1246.0601"
+     y="-13978.64"
+     transform="scale(4.0128,0.2492)"
+     id="text157"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="4396.6201"
+     y="-3463.3"
+     id="text159"
+     style="font-size:372.1499939px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="4396.6201"
+       y="-3463.3"
+       id="tspan161" />
+  </text>
+  <text
+     x="1663.22"
+     y="-14903.26"
+     transform="scale(4.0128,0.2492)"
+     id="text163"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <g
+     transform="matrix(23.27273,0,0,23.27273,625.97,-40.35)"
+     id="g165"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <text
+       x="-64.782997"
+       y="27.985001"
+       id="text167"
+       style="font-size:25.78100014px">
+      <tspan
+         x="-64.782997"
+         y="27.985001"
+         id="tspan169" />
+    </text>
+    <text
+       x="375.23999"
+       y="-101.63"
+       id="text171"
+       style="font-size:15.99100018px">
+      <tspan
+         x="375.23999"
+         y="-101.63"
+         id="tspan173" />
+    </text>
+  </g>
+  <text
+     x="2899.8301"
+     y="-10659.03"
+     transform="scale(4.0128,0.2492)"
+     id="text175"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="11032.6"
+     y="-2635.96"
+     id="text177"
+     style="font-size:372.1499939px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="11032.6"
+       y="-2635.96"
+       id="tspan179" />
+  </text>
+  <text
+     x="3316.8799"
+     y="-11583.42"
+     transform="scale(4.0128,0.2492)"
+     id="text181"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="7946.6401"
+     y="-3157.97"
+     id="text183"
+     style="font-size:372.1499939px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="7946.6401"
+       y="-3157.97"
+       id="tspan185" />
+  </text>
+  <text
+     x="2547.95"
+     y="-13678.19"
+     transform="scale(4.0128,0.2492)"
+     id="text187"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="11108.94"
+     y="-3781.4399"
+     id="text189"
+     style="font-size:372.1499939px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="11108.94"
+       y="-3781.4399"
+       id="tspan191" />
+  </text>
+  <text
+     x="3335.96"
+     y="-16179.99"
+     transform="scale(4.0128,0.2492)"
+     id="text193"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="12782.94"
+     y="-4011.8401"
+     id="text195"
+     style="font-size:372.1499939px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="12782.94"
+       y="-4011.8401"
+       id="tspan197" />
+  </text>
+  <text
+     x="3753.01"
+     y="-17104.381"
+     transform="scale(4.0128,0.2492)"
+     id="text199"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="11662.36"
+     y="-5372.3701"
+     id="text201"
+     style="font-size:372.1499939px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="11662.36"
+       y="-5372.3701"
+       id="tspan203" />
+  </text>
+  <text
+     x="3473.74"
+     y="-22563.9"
+     transform="scale(4.0128,0.2492)"
+     id="text205"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="13336.37"
+     y="-5602.77"
+     id="text207"
+     style="font-size:372.1499939px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="13336.37"
+       y="-5602.77"
+       id="tspan209" />
+  </text>
+  <text
+     x="3891.01"
+     y="-23488.289"
+     transform="scale(4.0128,0.2492)"
+     id="text211"
+     style="font-size:135.21000671px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="8057.8799"
+     y="-1528.48"
+     id="text213"
+     style="font-size:599.98999023px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="8057.8799"
+       y="-1528.48"
+       id="tspan215" />
+  </text>
+  <g
+     transform="translate(-583.52,-16.713)"
+     id="g217">
+    <g
+       transform="matrix(2.62305,0,0,-2.62305,673.9,447.71)"
+       id="g219"
+       style="opacity:0.2">
+      <path
+         d="M 89.628,127.714 118,99 89.628,99"
+         inkscape:connector-curvature="0"
+         id="9" />
+      <path
+         d="M 118,7.982 C 118,3.57 114.43,0 110.018,0 H 21.978 C 17.57,0 13.996,3.57 13.996,7.982 v 111.75 c 0,4.412 3.574,7.982 7.982,7.982 h 59.53 V 93.991 C 81.508,91.785 83.293,90 85.499,90 h 32.5 V 7.98 m -92,12.02 h 40 v 9 h -40 v -9 m 0,25 h 40 v 9 h -40 v -9 m 40,59 h -40 v -9 h 40 v 9 m 38,-25 h -78 v -9 h 78 v 9 m 0,-25 h -25 V 20 h 25 v 34"
+         inkscape:connector-curvature="0"
+         id="A" />
+    </g>
+    <g
+       transform="matrix(2.62305,0,0,-2.62305,658.9,432.71)"
+       id="g223"
+       style="fill:#dcdbdb">
+      <use
+         id="use225"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#9" />
+      <use
+         id="use227"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#A" />
+    </g>
+  </g>
+  <path
+     d="M 78.66,6 C 63.797,6 49.99,10.43 38.5,18.03 V 493.97 C 49.986,501.572 63.793,506 78.66,506 h 68.844 V 6 H 78.66"
+     inkscape:connector-curvature="0"
+     id="path229"
+     style="opacity:0.05;fill:url(#1)" />
+  <path
+     d="m 147.5,6 v 500 h 109 V 6 h -109"
+     inkscape:connector-curvature="0"
+     id="path231"
+     style="opacity:0.05;fill:url(#2)" />
+  <path
+     d="m 256.5,6 v 500 h 109 V 6 h -109"
+     inkscape:connector-curvature="0"
+     id="path233"
+     style="opacity:0.05;fill:url(#3)" />
+  <path
+     d="m 365.5,6 v 500 h 67.844 c 14.854,0 28.643,-4.438 40.13,-12.03 V 18.03 C 461.992,10.437 448.204,6 433.354,6 H 365.51"
+     inkscape:connector-curvature="0"
+     id="path235"
+     style="opacity:0.05;fill:url(#4)" />
+  <path
+     d="M 38.5,18.03 C 18.886,31.011 6,53.27 6,78.66 v 354.69 c 0,25.381 12.886,47.644 32.5,60.63 V 18.04"
+     inkscape:connector-curvature="0"
+     id="path237"
+     style="opacity:0.05;fill:url(#6)" />
+  <path
+     d="m 473.47,18.03 v 475.94 c 19.627,-12.979 32.531,-35.23 32.531,-60.62 V 78.66 c 0,-25.391 -12.905,-47.646 -32.531,-60.62"
+     inkscape:connector-curvature="0"
+     id="path239"
+     style="opacity:0.05;fill:url(#5)" />
+</svg>
